@@ -1,0 +1,6 @@
+{
+  "name": "Dev Log Focus Plan",
+  "description": "Take control of your day with study scheduling, topic lists, work tracking, notes, and focus timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
